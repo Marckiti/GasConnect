@@ -1,0 +1,6 @@
+/* Estilos generales de la App */
+.App {
+  max-width: 1200px;
+  margin: 0 auto; /* Centra la aplicación en la pantalla */
+  font-family: Arial, sans-serif;
+}
